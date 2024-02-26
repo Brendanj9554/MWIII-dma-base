@@ -1,3 +1,10 @@
-# MWIII-dma-base
-working DMA base for WZ/mwIII need to add scatter reading. scatter class is in the dma.h file. only uploading the files needed to get scatters working in the player loop (game.h)
-functions and encryptions anre in the utilities file.
+Working DMA base for MWIII
+bones working
+adjustable FOV and crosshair added
+render distance slider adding and working
+healthbars = work in progress / display raw HP until created draw function
+
+to do: 
+Visability Check
+Optimize, Batch/Scatter
+FPS counter/limiter? 
